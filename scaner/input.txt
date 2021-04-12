@@ -1,0 +1,40 @@
+short int func1()
+{
+	return 8;
+}
+float func2()
+{
+	short int var0 = 9;
+	return var0;
+}
+float var1;
+float func3(float param1, short int param2, float param3)
+{
+	return param1 + param2 + param3;
+}
+long int func4()
+{
+	return 8;
+}
+short int main()
+{
+	short int var2 = 9;
+	while(short int var2 = func4())
+	{
+		;
+		var1 = 0;
+		long int var3 = func2();
+		while(var3 >= 1 + 7 <<var3*var1)
+		{	
+			func3(func4(),9,'p');
+			while(var3 == 9)
+			{	func3(1,2,3);
+				short int var3 = 9;
+			}
+		}
+	}
+	{
+		float var2;
+	}
+	return func3(func3(var1,var2,func4()),func2(),func4());
+}
